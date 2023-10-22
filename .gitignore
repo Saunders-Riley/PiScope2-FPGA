@@ -3,3 +3,11 @@ PiScope2_FPGA.hw/*
 PiScope2_FPGA.runs/*
 PiScope2_FPGA.sim/*
 PiScope2_FPGA.gen/*
+PiScope2_FPGA.ip_user_files/ipstatic/*
+PiScope2_FPGA.ip_user_files/mem_init_files/*
+PiScope2_FPGA.ip_user_files/sim_scripts/*
+*.jou
+*.log
+*.txt
+*.str
+.Xil
